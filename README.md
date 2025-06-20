@@ -49,6 +49,11 @@ CSS3 (Flexbox + Grid)
 
 >>Skills
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/b453d11f-ed92-4879-9616-bde41c7a02d3)
+![Image](https://github.com/user-attachments/assets/60b643a2-c8fd-481f-8613-5eaaeb0342fc)
+
 >>Projects
 
 >>Contact
